@@ -6,6 +6,8 @@ Kolmogorov–Arnold Networks approximate multivariate functions by composing sum
 
 Original research paper by Liu et al found [here](https://arxiv.org/pdf/2404.19756)
 
+Official KAN Repo found [here](https://github.com/KindXiaoming/pykan/blob/master/hellokan.ipynb)
+
 # Problem
 
 Adaptive Basis Functions (ABFs) solve the problem of inflexible basis function by introducing learnable parameters. If a true function has irregular non-linear relationships between the variables. Our introduction of Radial Basis Functions built upon the normal distribution dynamically fine-tunes to optimize the center and standard deviation based on the dataset and the true function.
